@@ -13,15 +13,14 @@
 
 ## 학습목차
 ### 파이썬 개요 및 설치
-### 파이썬 기초 문법
-### 연산문
-### 제어문
-### 제어문2
-### list(리스트)
-### file로 부터 읽고 쓰기
-### 함수(function)1
-### 함수(function)2 - 함수처리 고급
-### tuple(튜플) & Dictionary(사전)
+### [파이썬 기초 문법](Lesson1(%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95).ipynb)
+### [연산문](Lesson2(연산문).ipynb)
+### [제어문](Lesson3(제어문).ipynb)
+### [list(리스트)](Lesson5(리스트).ipynb)
+### [file로 부터 읽고 쓰기](Lesson6(파일읽고쓰기).ipynb)
+### [함수(function)](Lesson7(함수기본).ipynb)
+### [함수(function)2 - 함수처리 고급](Lesson8(람다함수).ipynb)
+### [tuple(튜플) & Dictionary(사전)](Lesson9(튜플,딕션너리).ipynb)
 ### 컴퓨터 내부 데이터표현 요약
 ### 엑셀 작업
 ### 이메일 보내기

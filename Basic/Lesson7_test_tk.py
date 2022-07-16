@@ -11,6 +11,10 @@ def change_state():
 def form_set():
     global lbl
     win=Tk()
+    win.title("Welcome to TutorialsPoint")
+    win.geometry('325x250')
+    win.configure(background = "gray")
+
     lbl=Label(win,
               text="안녕 파이썬",
               font="HY헤드라인M 20",
@@ -28,3 +32,5 @@ if __name__ == '__main__':
     mas=form_set()
     mas.mainloop()
     
+
+
