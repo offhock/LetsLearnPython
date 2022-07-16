@@ -1,7 +1,5 @@
-
 ## 파이썬 온라인 강의
-
-본 자료는 아래의 강좌를 보면서 실습한 자료이다.
+본 자료는 아래의 강좌를 보면서 실습한 자료입니다.
 
 ### 강의명: 파이썬 기초부터 활용까지
 강사: 이이표
@@ -22,8 +20,8 @@
 ### [함수(function)2 - 함수처리 고급](Lesson8(람다함수).ipynb)
 ### [tuple(튜플) & Dictionary(사전)](Lesson9(튜플,딕션너리).ipynb)
 ### 컴퓨터 내부 데이터표현 요약
-### 엑셀 작업
+### [엑셀 작업](Lesson10(엑셀).ipynb)
 ### 이메일 보내기
-### 파이썬 class & 객체지향 프로그래밍
-### 상속 (inheritance)과 연산자 중복(Operator overloading)
+### [파이썬 class & 객체지향 프로그래밍](Lesson11(클래스).ipynb)
+### [상속 (inheritance)과 연산자 중복(Operator overloading)](Lesson12(상속과%20연산자중복).ipynb)
 
